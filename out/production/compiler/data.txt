@@ -1,0 +1,28 @@
+if (num1>num2) then
+{
+    if (nugggggggm1+a+2>num2) then
+    {
+    a = num1+2;
+    }else{
+        abd = 3.001+s;
+    }
+    b21= 3;
+    b = a21;
+}
+else
+{
+    if (num1>num2) then
+    {
+        a = num1;
+    }else
+    {
+        if (num1>num2) then
+            {
+                a = num1;
+            }else
+            {
+                a = 2;
+            }
+    }
+}
+#
